@@ -22,6 +22,9 @@
   * [using vector](/src/data_structures/queue/vector.clj)
   * [using list](/src/data_structures/queue/list.clj)
 
+## Dynamic Programming
+* [Fibonacci Number](https://github.com/TheAlgorithms/Clojure/blob/main/src/dynamic_programming/fibonacci_number.clj)
+
 ## Sorting
 * [Merge Sort](https://github.com/TheAlgorithms/Clojure/blob/main/src/sorts/merge_sort.clj)
 * [Quick Sort](https://github.com/TheAlgorithms/Clojure/blob/main/src/sorts/quick_sort.clj)
